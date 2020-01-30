@@ -1,0 +1,25 @@
+[
+  {
+    "title":"Post nr 1",
+    "brief":"resumen post 1",
+    "body":"detalle post 1"
+  },
+
+  {
+    "title":"Post nr 2",
+    "brief":"resumen post 2",
+    "body":"detalle post 2"
+  },
+
+  {
+    "title":"post nr 3",
+    "brief":"resumen post 3",
+    "body":"detalle post 3"
+  },
+
+  {
+    "title":"Post nr 4",
+    "brief":"resumen post 4",
+    "body":"detalle post 4"
+  }
+]
